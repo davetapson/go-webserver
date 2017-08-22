@@ -2,8 +2,8 @@ package main
 // https://thenewstack.io/make-a-restful-json-api-go/
 
 import (
-	"net/http"
 	"log"
+	"net/http"
 )
 
 func main(){
